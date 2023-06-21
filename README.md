@@ -3,13 +3,13 @@
 FastText 是一个用于高效学习单词表示和句子分类的库。
 
 官方地址: <https://fasttext.cc>  
-中文社区: <http://fasttext.apachecn.org/>
+中文社区: <http://fasttext.flygon.net/>
 
 ## 文档地址
 
-* FastText 中文社区: <http://fasttext.apachecn.org/>  
-* FastText 中文文档: <http://fasttext.apachecn.org/cn/docs/0.1.0/>  
-* FastText 英文文档: <http://fasttext.apachecn.org/en/docs/0.1.0/>  
+* FastText 中文社区: <http://fasttext.flygon.net/>  
+* FastText 中文文档: <http://fasttext.flygon.net/cn/docs/0.1.0/>  
+* FastText 英文文档: <http://fasttext.flygon.net/en/docs/0.1.0/>  
 
 ## 项目负责人
 
@@ -42,15 +42,15 @@ FastText 是一个用于高效学习单词表示和句子分类的库。
 
 ## 加入我们
 
-如果想要加入我们, 请参阅: <http://www.apachecn.org/organization/209.html>.
+如果想要加入我们, 请参阅: <http://www.flygon.net/organization/209.html>.
 欢迎各位爱装逼的大佬们.
 
 ## 建议反馈
 
 - 联系项目负责人 [@wnma](https://github.com/wnma3mz)或者 [@Lisanaaa](https://github.com/Lisanaaa).
 - 在我们的 [apachecn/fasttext-doc-zh](https://github.com/apachecn/fasttext-doc-zh) github 上提 issue.
-- 发邮件送到 Email: fasttext#apachecn.org (#替换成@) .
-- 在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
+- 发邮件送到 Email: fasttext#flygon.net (#替换成@) .
+- 在我们的 [组织学习交流群](http://www.flygon.net/organization/348.html) 中联系群主/管理员即可.
 
 
 ## 下载
